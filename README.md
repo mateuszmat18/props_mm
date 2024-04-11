@@ -3,7 +3,7 @@
 
 ## TODO tm:
 
-- [ ] write down who rules
+- [x] write down who rules
 
 ## TODO mm:
 - [x] prepare hello world script
